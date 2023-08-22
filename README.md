@@ -9,10 +9,16 @@ sudo apt install zip
 sudo apt install azure-cli
 snap install kubectl --classic
 sudo snap install helm --classic
-k9s
+#k9s
+
+#Docker
+<https://docs.docker.com/engine/install/ubuntu/>
+<https://docs.docker.com/engine/install/linux-postinstall/>
 
 
-https://learn.microsoft.com/en-us/azure/aks/internal-lb
+#ingress
+<https://learn.microsoft.com/en-us/azure/aks/internal-lb>
+
 
 
 helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx
